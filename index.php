@@ -1,5 +1,6 @@
 <?php
-echo "olá mundo  456"
-echo "olá udemy"
+
+echo "olá mundo"
+echo "olá udemy e hcode"
 
 ?>
