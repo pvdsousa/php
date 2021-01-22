@@ -1,3 +1,3 @@
 <?php
-echo "primeiro código"
+echo "olá mundo"
 ?>
